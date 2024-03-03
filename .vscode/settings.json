@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "lib",
+        "src"
+    ],
+    "python.autoComplete.extraPaths": [
+        "lib",
+        "src"
+    ]
+}
